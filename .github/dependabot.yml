@@ -9,3 +9,5 @@ updates:
       include: scope
     schedule:
       interval: daily
+    cooldown:
+      default-days: 14
